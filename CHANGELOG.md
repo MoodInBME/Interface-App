@@ -18,6 +18,7 @@ Format mengikuti [Keep a Changelog](https://keepachangelog.com/id/1.1.0/).
 ### Diubah
 
 - `README.md` ditata ulang (Fase B2): banner terang/gelap, kartu dua aplikasi, galeri desain awal era GEMASTIK, dan prinsip tampilan dengan ikon. Istilah diselaraskan dengan tahap Proposal Tugas Akhir (Pra-TA); "kontrak versi TA" menjadi "kontrak pesan v2".
+- `.gitignore` (Fase C1): pola folder data partisipan dan rekaman uji. **[lintas repo]** Pola yang sama ditambahkan di semua repo aktif (ADR-14 di MoodIn-master).
 
 ## Riwayat
 
